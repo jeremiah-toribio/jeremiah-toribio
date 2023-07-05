@@ -1,8 +1,9 @@
 ### Welcome 👋
-Currently a data science student at Codeup
-Former U.S. Air Force Airborne Cryptologic Language Analyst
-Texas native
-Highly motivated, *highly curious*
+Currently a data science student at Codeup  
+Former U.S. Air Force Airborne Cryptologic Language Analyst  
+Texas native  
+
+> Highly motivated, *highly curious*  
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/jeremiah-toribio/)
 
