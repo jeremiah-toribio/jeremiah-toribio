@@ -2,7 +2,9 @@
 Currently a **data science student** at **Codeup**  
 Former **U.S. Air Force Airborne Cryptologic Language Analyst**  
 Texas native  
+
 What really fascinates me about data science is there is almost a *limitless* application, it has a place anywhere.  
+
 Hobbies: Jiu-jitsu 🥷🏼 , photography/ videography 📷 , Traveling 🗺️ 
 
 > Highly motivated, *highly curious*  
