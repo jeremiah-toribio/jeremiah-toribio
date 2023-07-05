@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome 👋
+Currently a data science student at Codeup
+Former U.S. Air Force Airborne Cryptologic Language Analyst
+Texas native
+Highly motivated, *highly curious*
+
+Reach me on [LinkedIn](https://www.linkedin.com/in/jeremiah-toribio/)
 
 <!--
 **jeremiah-toribio/jeremiah-toribio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
