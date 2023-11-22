@@ -1,5 +1,5 @@
 ### Thanks for stopping by 👋
-Currently a **data science student** at **Codeup**  
+**Data science** alum **Codeup**  
 Former **U.S. Air Force Airborne Cryptologic Language Analyst**  
 Texas native  
 
